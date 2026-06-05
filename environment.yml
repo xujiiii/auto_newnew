@@ -1,0 +1,27 @@
+name: project
+channels:
+  - salilab
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - ipykernel
+  - pandas
+  - scipy
+  - biopython=1.80
+  - tqdm
+  - requests
+  - mdanalysis
+  - mdtraj
+  - biobox
+  - pytorch
+  - ipython
+  - nglview
+  - molearn
+  - mpi4py
+  - plotly
+  - modeller
+  - pymol-open-source
+  - foldseek
+  - jupyter
+prefix: /data/student/xujia/miniforge3/envs/project
